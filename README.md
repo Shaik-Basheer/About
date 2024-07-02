@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+am+Web+Developer.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+am+Web+Developer.;FullStack+AND+Cyber+Security+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     
 <h1 align="center">Hi 👋, I'm SHAIK BASHEER MOHAMMAD</h1>
 <h3 align="center">Web Developer</h3>
@@ -8,9 +8,8 @@
 
 <h3> About Me  🚀 </h3>
 
-- 🔭 I’m pre-final year student in **IT** at Vasireddy Venkatadri Institute of technology.<p>
-- 🌱 I’m currently learning **Front-end and Back-end Programming**<p>
-- 🔭 I’m currently working on **Editor Designing**<p>
+- 🔭 I’m currently working in **Ramboll India Pvt Ltd** in Hyderabad.<p>
+- 🌱 I’m working as **Software Support Executive**<p>
 - 🌱 Enthusiast in **Web Developer**.<p>
 - 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!<p>
 - 📫 How to reach me **basheershaik9505@gmail.com**<p>
@@ -35,8 +34,6 @@
 ⚡Professional customization.<br>
 ⚡UNLIMITED revisions and color options based on your requirements and branding<br>
 ⚡Full Icon / Image package that is used in the Mockup<br>
-⚡A full package including all the source files<br>
-⚡100% on-time delivery of the product.<br>
 ⚡Update the result every day.<br>
 </div>
 <p>
@@ -82,7 +79,6 @@ Alone we can do so little; together we can do so much.
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Shaik-Basheer&theme=monokai"/>
   </div>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shaik-Basheer&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
   
   <br>
 </p>
