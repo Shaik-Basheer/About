@@ -76,6 +76,4 @@ Alone we can do so little; together we can do so much.
 
 
   
-<br/>  
-
-![YamanuriPrasanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaik-Basheer&theme=nord) 
+<br/>
